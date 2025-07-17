@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hey, I'm Raveenesshan T 👋 (aka RaveeDesign)
 
-<!--
-**RaveeDesign/RaveeDesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Game Developer | 🌐 Web App Developer | 🎨 Designer
 
-Here are some ideas to get you started:
+I'm passionate about building immersive games and modern web applications.  
+Currently developing **Echoes of the Past**, a 2D mystery puzzle game, and designing full-stack apps to sharpen my web skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 What I Do
+- 🎮 Create cinematic mystery games using Unity (2D/2.5D/3D)
+- 🌐 Develop responsive and creative web apps (HTML, CSS, JavaScript)
+- ✨ Craft smooth user experiences across both games and apps
+
+---
+
+## 🧰 Tools & Tech
+- Unity, C#
+- Blender, DaVinci Resolve
+- HTML5, CSS3, JavaScript
+- Git, GitHub, Figma, GDevelop
+
+---
+
+## 🕹️ Game Projects
+
+### 🎮 Echoes of the Past *(WIP)*
+A dark 2D cinematic puzzle game inspired by *Limbo* and *Inside*.  
+🛠️ Built in Unity with rich atmosphere, minimal UI, and brain-twisting puzzles.
+
+---
+
+## 🌐 Web Projects
+
+### 🌟 Self Portfolio Web App
+A clean, mobile-friendly personal website to showcase my work and projects.  
+- Built with HTML5, CSS3, and responsive layout
+- Showcases my journey in game dev and web dev
+- Includes project highlights, contact form, and custom design
+
+🔗 [Link to live portfolio](https://your-portfolio-link.com) *(Replace with your actual site or GitHub Pages link)*  
+📂 Repo: [`ravee-portfolio`](https://github.com/RaveeDesign/ravee-portfolio) *(Create this if not yet)*
+
+---
+
+## 📫 Contact Me
+- 🌐 LinkedIn: [linkedin.com/in/raveenesshan](https://linkedin.com/in/raveenesshan)
+- ✉️ Email: Raveenesshan08@gmail.com
+
+---
+
+Thanks for stopping by! ⭐ Let's build cool things together.
+
