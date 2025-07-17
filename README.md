@@ -38,7 +38,6 @@ A clean, mobile-friendly personal website to showcase my work and projects.
 - Showcases my journey in game dev and web dev
 - Includes project highlights, contact form, and custom design
 
-🔗 [Link to live portfolio](https://your-portfolio-link.com) *(Replace with your actual site or GitHub Pages link)*  
 📂 Repo: [`ravee-portfolio`](https://github.com/RaveeDesign/ravee-portfolio) *(Create this if not yet)*
 
 ---
