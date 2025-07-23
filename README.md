@@ -25,7 +25,7 @@ Currently developing **Echoes of the Past**, a 2D mystery puzzle game, and desig
 ## 🕹️ Game Projects
 
 ### 🎮 Echoes of the Past *(WIP)*
-A dark 2D cinematic puzzle game inspired by *Limbo* and *Inside*.  
+A dark 3D cinematic puzzle game inspired by *Limbo* and *Inside*.  
 🛠️ Built in Unity with rich atmosphere, minimal UI, and brain-twisting puzzles.
 
 ---
